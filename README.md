@@ -1,4 +1,4 @@
-### Hi I'm Miguel :v:
+### Hi, I'm Miguel / Olá, eu sou o Miguel :v:
 
 - 🌱 I'm currently learning React, React Native, Prisma and NodeJS 
 - 😄 Pronouns: He/His
