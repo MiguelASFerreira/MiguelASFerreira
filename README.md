@@ -20,6 +20,7 @@ I'm 20 years old and I work as a software developer, with practical experience i
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
