@@ -1,7 +1,7 @@
-<h1>👋 &nbsp;Hi, I'm Miguel Antonio, a Full Stack Programmer!</h1>
+<h1>👋 &nbsp;Olá, sou Miguel Antonio, um programador Full Stack!</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/miguel-antonio-624ba1234/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miguel-antonio-624ba1234/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
