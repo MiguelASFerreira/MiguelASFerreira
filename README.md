@@ -22,7 +22,7 @@ Tenho 20 anos e trabalho como desenvolvedor de software, com experiência práti
 ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
+<h3>⚙️ &nbsp;Back-end & Banco de Dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
@@ -33,7 +33,7 @@ Tenho 20 anos e trabalho como desenvolvedor de software, com experiência práti
 
 ##
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+<h2>🚀 &nbsp;Meu Status do GitHub</h2>
 
 ![MiguelASFerreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelASFerreira&show_icons=true&theme=dark&include_all_commits=true)
 
