@@ -5,7 +5,7 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
-Tenho 20 anos e trabalho como desenvolvedor de software, com experiência prática em tecnologias como React, React Native e TypeScript. Participei de projetos envolvendo desenvolvimento de interfaces modernas, criação de APIs e soluções de back-end. Estou sempre em busca de novos aprendizados e desafios, com o objetivo de evoluir na minha carreira e me tornar um desenvolvedor Full Stack.
+Tenho 21 anos e estou a procura de trabalho como desenvolvedor de software, com experiência prática em tecnologias como React, React Native e TypeScript. Participei de projetos envolvendo desenvolvimento de interfaces modernas, criação de APIs e soluções de back-end. Estou sempre em busca de novos aprendizados e desafios, com o objetivo de evoluir na minha carreira e me tornar um desenvolvedor Full Stack.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
