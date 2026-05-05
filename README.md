@@ -39,3 +39,4 @@ Tenho 21 anos e estou a procura de trabalho como desenvolvedor de software, com 
 
 ![MiguelASFerreira GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelASFerreira&layout=compact&langs_count=6&theme=dark)
 
+![snake gif](https://github.com/MiguelASFerreira/MiguelASFerreira/blob/output/github-contribution-grid-snake.svg)
